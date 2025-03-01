@@ -1,0 +1,61 @@
+body {
+    background-color: #031016;
+    color: white;
+}
+
+p {
+    display: inline !important;
+    text-shadow: 1px 1px white, 1px -1px white, -1px 1px white, -1px -1px white;
+}
+
+.s {
+    color: #fe00fe;
+}
+.a {
+    color: #d600d6;
+}
+.b {
+    color: #ab00ab;
+}
+.c {
+    color: #800080;
+}
+.d {
+    color: #560056;
+}
+.f {
+    color: #2b002b;
+}
+.hundred {
+    color: #00fe00;
+}
+.ninety {
+    color: #00e700;
+}
+.eighty {
+    color: #00d000;
+}
+.seventy {
+    color: #00b900;
+}
+.sixty {
+    color: #00a200;
+}
+.fifty {
+    color: #008b00;
+}
+.forty {
+    color: #007400;
+}
+.thirty {
+    color: #005d00;
+}
+.twenty {
+    color: #004600;
+}
+.ten {
+    color: #002e00;
+}
+.zero {
+    color: #001700;
+}
